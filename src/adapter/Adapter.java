@@ -37,3 +37,4 @@ public class Adapter implements YPay {
         setAmount(this.xPay.getAmount());
     }
 }
+
